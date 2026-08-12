@@ -1,0 +1,3512 @@
+{
+  "questions": [
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37059507",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37287352",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37166675",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37602255",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37656420",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37735554",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37962198",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34735735"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Safety and efficacy of rozanolixizumab in patients with generalised myasthenia gravis (MycarinG): a randomised, double-blind, placebo-controlled, adaptive phase 3 study.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37059507",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 169
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "INTERPRETATION: Rozanolixizumab showed clinically meaningful improvements in patient-reported and investigator-assessed outcomes in patients with generalised myasthenia gravis, for both 7 mg/kg and 10 mg/kg doses.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37059507",
+          "offsetInBeginSection": 3136,
+          "offsetInEndSection": 3349
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Rozanolixizumab represents a potential additional treatment option for patients with generalised myasthenia gravis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37059507",
+          "offsetInBeginSection": 3508,
+          "offsetInEndSection": 3623
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Additionally, several international clinical trials (e.g., rituximab, inebilizumab, ocrelizumab, bortezomib, and rozanolixizumab) for AE treatments, including anti-NMDAR encephalitis, have been implemented. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37287352",
+          "offsetInBeginSection": 816,
+          "offsetInEndSection": 1023
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Post hoc analyses of the MG0002 study, a Phase 2a clinical trial of rozanolixizumab in adults with moderate to severe generalized MG, included correlation and Rasch model analyses.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37166675",
+          "offsetInBeginSection": 726,
+          "offsetInEndSection": 906
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Efgartigimod is already approved for the treatment of generalized MG, rozanolixizumab is under review by health authorities, and phase 3 trials of nipocalimab and batoclimab are underway.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37602255",
+          "offsetInBeginSection": 1192,
+          "offsetInEndSection": 1379
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Rozanolixizumab (rozanolixizumab-noli; RYSTIGGO®) is a high affinity humanized immunoglobulin G4 monoclonal antibody directed against human neonatal Fc receptor (FcRn). Administered subcutaneously, it is being developed by UCB Pharma for the treatment of autoimmune diseases and received its first approval on 27 June 2023 in the USA for the treatment of generalized myasthenia gravis (gMG) in adults who are anti-acetylcholine receptor (AChR) or anti-muscle-specific kinase (MuSK) antibody positive. Rozanolixizumab is the first agent to be approved in the USA for both anti-AChR and anti-MuSK antibody-positive gMG. A regulatory assessment of rozanolixizumab for the treatment of gMG is currently underway in the EU and Japan.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37656420",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 728
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "This article summarizes the milestones in the development of rozanolixizumab leading to this first approval for the treatment of gMG in adults who are anti-AChR or anti-MuSK antibody positive.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37656420",
+          "offsetInBeginSection": 934,
+          "offsetInEndSection": 1126
+        }
+      ],
+      "id": "65d1350f1930410b13000038",
+      "type": "yesno",
+      "body": "Can Rozanolixizumab be used for treatment of multiple sclerosis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33336844"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We selected patients with left-sided RAS and BRAF wild-type mCRC treated with first-line FOLFOX-panitumumab or FOLFOXIRI-bevacizumab in five randomized trials: Valentino, TRIBE, TRIBE2, STEAM, and CHARTA. A propensity score-based analysis was performed to compare FOLFOXIRI-bevacizumab with FOLFOX-panitumumab",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33336844",
+          "offsetInBeginSection": 500,
+          "offsetInEndSection": 809
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "No significant differences were observed, but FOLFOXIRI-bevacizumab achieved numerically superior survival outcomes versus FOLFOX-panitumumab. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33336844",
+          "offsetInBeginSection": 2089,
+          "offsetInEndSection": 2232
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These observations suggest that although doublet chemotherapy plus anti-EGFRs remains the preferred treatment in patients with left-sided RAS/BRAF wild-type mCRC, FOLFOXIRI-bevacizumab is a valuable option able to provide similar, if not better, outcomes at the price of a moderate increase in toxicity and may be adopted based on patients\u0027 preference and potential impact on quality of life",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33336844",
+          "offsetInBeginSection": 2323,
+          "offsetInEndSection": 2714
+        }
+      ],
+      "id": "65f77701c4010b4d78000030",
+      "type": "yesno",
+      "body": "Are FOLFIRINOX plus Bevacizumab the preferred therapy for left-sided RAS wild type advanced colorectal cancer with aggressive clinical presentation?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37488848",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37905874",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37652560"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " amyloid-beta (Aβ) in neurodegenerative diseases beyond Alzheimer\u0027s disease (AD). We analyzed Aβ deposition in the temporal cortex and striatum in 116 autopsies, including Lewy body disease (LBD; N \u003d 51), multiple system atrophy (MSA; N \u003d 10), frontotemporal lobar degeneration-TDP-43 (FTLD-TDP; N \u003d 16), and progressive supranuclear palsy",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37652560",
+          "offsetInBeginSection": 49,
+          "offsetInEndSection": 388
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Recent studies have indicated associations between aberrant behavior of amyloid-beta and tau proteins and various neurological diseases, such as Alzheimer\u0027s disease, Parkinson\u0027s disease, and amyotrophic lateral sclerosis, as well as retinal neurodegenerative diseases like Glaucoma and age-related macular degeneration. Additionally, these proteins have been linked to cardiovascular disease, cancer, traumatic brain injury, and diabetes",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37905874",
+          "offsetInBeginSection": 548,
+          "offsetInEndSection": 985
+        }
+      ],
+      "id": "66097092fdcbea915f000010",
+      "type": "list",
+      "body": "Amyloid-β is associated with what diseases?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37042198",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36958955",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36944114"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ixodes ricinus",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37042198",
+          "offsetInBeginSection": 316,
+          "offsetInEndSection": 330
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ixodes scapularis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36958955",
+          "offsetInBeginSection": 132,
+          "offsetInEndSection": 149
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Ixodes ticks",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36944114",
+          "offsetInBeginSection": 53,
+          "offsetInEndSection": 65
+        }
+      ],
+      "id": "660c0071fdcbea915f00002b",
+      "type": "factoid",
+      "body": "Which tick genus is the vector for Lyme disease?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34612847"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " In children with sepsis/severe sepsis/septic shock, chronic conditions, oncologic diagnosis, use of vasoactive/inotropic agents, mechanical ventilation, serum lactate, platelet count, fibrinogen, procalcitonin, multi-organ dysfunction syndrome, Pediatric Logistic Organ Dysfunction score, Pediatric Index of Mortality-3, and Pediatric Risk of Mortality score each demonstrated significant and consistent associations with mortality.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34612847",
+          "offsetInBeginSection": 1429,
+          "offsetInEndSection": 1862
+        }
+      ],
+      "id": "660c44f7fdcbea915f000033",
+      "type": "yesno",
+      "body": "Can lactate levels predict mortality in paediatric sepsis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36734148",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36470539",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37343519",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37462862"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "OBJECTIVE: We aimed to assess efficacy/safety of fezolinetant for treatment of moderate to severe VMS associated with menopause.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36734148",
+          "offsetInBeginSection": 111,
+          "offsetInEndSection": 239
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSION: Daily fezolinetant 30 and 45 mg were efficacious and well tolerated for treating moderate to severe VMS associated with menopause.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36734148",
+          "offsetInBeginSection": 1512,
+          "offsetInEndSection": 1654
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Fezolinetant is a neurokinin 3 receptor antagonist under investigation for treatment of menopausal symptoms. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37343519",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 109
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Fezolinetant (VEOZAH™) is an oral, small molecule, neurokinin 3 receptor (NK3R) antagonist, which is being developed by Astellas Pharma Inc. for the treatment of moderate to severe vasomotor symptoms (VMS) or hot flashes due to menopause.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37462862",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 238
+        }
+      ],
+      "id": "65d136f41930410b1300003d",
+      "type": "summary",
+      "body": "What is the use of fezolinetant?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31653970",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36117191"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In cetuximab-sensitive patients, we found KRAS K117N and A146T mutations in addition to BRAF V600E, AKT1 E17K, PIK3CA E542K, and FGFR1 or ERBB2 amplifications. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31653970",
+          "offsetInBeginSection": 653,
+          "offsetInEndSection": 813
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ARID1A mutations may provide both an acquired and intrinsic mechanism of resistance to anti-EGFR therapies. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36117191",
+          "offsetInBeginSection": 495,
+          "offsetInEndSection": 603
+        }
+      ],
+      "id": "65f7764fc4010b4d7800002f",
+      "type": "list",
+      "body": "Which gene mutations confer acquired resistance to anti-EGFR therapy in advance colorectal cancer?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37417215",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36891368",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34815370",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37451288"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Treatment of pectus excavatum with vacuum bell during puberty.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37417215",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 62
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "This review highlights contemporary management principles of pectus excavatum in the pediatric population, comprising preoperative evaluation, surgical and non-surgical treatment,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36891368",
+          "offsetInBeginSection": 936,
+          "offsetInEndSection": 1115
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ectus excavatum is the most common congenital chest wall anomaly, the hallmark of which is the caved-in appearance of the anterior chest. A growing body of literature exists surrounding methods of surgical correction,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36891368",
+          "offsetInBeginSection": 27,
+          "offsetInEndSection": 244
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The purpose of this study was to compare 1-year clinical outcomes between patients who underwent a Nuss operation or vacuum bell therapy and to present vacuum bell therapy as a possible alternative treatment modality for patients who prefer non-surgical correction of pectus excavatum.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34815370",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 297
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Pectus excavatum deformities are usually repaired with a minimally invasive approach in which a metal bar is used to correct the chest wall abnormality. We aimed to evaluate long-term outcomes and patient satisfaction after surgical correction",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37451288",
+          "offsetInBeginSection": 13,
+          "offsetInEndSection": 256
+        }
+      ],
+      "id": "66080f4cfdcbea915f000004",
+      "type": "list",
+      "body": "List the methods for pectus excavatum repair?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31916265",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32867076"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Air pollution and climate change have a significant impact on human health and well-being and contribute to the onset and aggravation of allergic rhinitis and asthma among other chronic respiratory diseases",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31916265",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 206
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "high exposure to indoor allergens (house dust mites, pets, molds, etc), tobacco smoke, and other pollutants, which have an impact on respiratory health",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31916265",
+          "offsetInBeginSection": 382,
+          "offsetInEndSection": 533
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Outdoor air pollution derived from traffic and other human activities not only has a direct negative effect on human health but also enhances the allergenicity of some plants",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31916265",
+          "offsetInBeginSection": 535,
+          "offsetInEndSection": 709
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "effects of indoor air pollution, outdoor air pollution, and subsequent climate change on asthma and allergic rhinitis in children and adults",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31916265",
+          "offsetInBeginSection": 924,
+          "offsetInEndSection": 1064
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "air pollution has a negative impact on asthma outcomes in both adult and pediatric populations",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32867076",
+          "offsetInBeginSection": 166,
+          "offsetInEndSection": 260
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "effect of various outdoor and indoor pollutants on asthma",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32867076",
+          "offsetInBeginSection": 330,
+          "offsetInEndSection": 387
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Traffic-related air pollution, nitrogen dioxide and second-hand smoking (SHS) exposures represent significant risk factors for asthma development in children",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32867076",
+          "offsetInBeginSection": 514,
+          "offsetInEndSection": 671
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Exposure to outdoor pollutants can induce asthma symptoms, exacerbations and decreases in lung function",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32867076",
+          "offsetInBeginSection": 787,
+          "offsetInEndSection": 890
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "indoor pollutants such as heating sources and molds can also negatively impact the course of asthma",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32867076",
+          "offsetInBeginSection": 1078,
+          "offsetInEndSection": 1177
+        }
+      ],
+      "id": "660d27e3fdcbea915f000039",
+      "type": "summary",
+      "body": "Impact of pollution on asthma."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31974673"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "PCT appeared to be superior to MR-proADM in diagnosing sepsis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31974673",
+          "offsetInBeginSection": 1172,
+          "offsetInEndSection": 1234
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CRP and PCT are already included in clinical practice to assess sepsis and estimate disease severity,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31974673",
+          "offsetInBeginSection": 1492,
+          "offsetInEndSection": 1593
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "PCT appeared to be superior to MR-proADM in diagnosing paediatric sepsis.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31974673",
+          "offsetInBeginSection": 1893,
+          "offsetInEndSection": 1966
+        }
+      ],
+      "id": "660c3591fdcbea915f000031",
+      "type": "yesno",
+      "body": "Do elevated levels of procalcitonin help in diagnosing paediatric sepsis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37467498",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37706295",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37897397"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Zilebesiran, an RNA Interference Therapeutic Agent for Hypertension.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37467498",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 68
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Zilebesiran, an investigational RNA interference therapeutic agent with a prolonged duration of action, inhibits hepatic angiotensinogen synthesis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37467498",
+          "offsetInBeginSection": 130,
+          "offsetInEndSection": 276
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Dysregulation of the renin-angiotensin system increases BP through its primary effector, Ang II (angiotensin II), which results in tissue remodeling and end-organ damage. Silencing liver angiotensinogen (the sole source of Ang II) has been achieved using novel RNA therapeutics, including the antisense oligonucleotide, IONIS-AGT (angiotensinogen)-LRX, and the small-interfering RNA, zilebesiran. Conjugation to N-acetylgalactosamine enables targeted delivery to hepatocytes, where endosomal storage, slow leakage, and small-interfering RNA recycling (for zilebesiran) result in knockdown over several months.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37706295",
+          "offsetInBeginSection": 360,
+          "offsetInEndSection": 969
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We present an analysis of the published phase I trials using zilebesiran, a siRNA targeting hepatic angiotensinogen, which reduces blood pressure (BP) by up to 20 mmHg, lasting 24 weeks.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37897397",
+          "offsetInBeginSection": 735,
+          "offsetInEndSection": 921
+        }
+      ],
+      "id": "65cfd7981930410b13000022",
+      "type": "summary",
+      "body": "What is the mechanism of action of Zilebesiran?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34757143"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Chronic inflammation is the driver of neoplastic progression, resulting in dysplastic precursor lesions that may arise in multiple areas of the colon through a process of field cancerization",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34757143",
+          "offsetInBeginSection": 160,
+          "offsetInEndSection": 350
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "preclinical investigations have demonstrated a potential role for the microbiome in concert with the host immune system in the development of colitis-associated colorectal cancer (CAC).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34757143",
+          "offsetInBeginSection": 433,
+          "offsetInEndSection": 618
+        }
+      ],
+      "id": "65f77ac9c4010b4d7800003c",
+      "type": "summary",
+      "body": "Why does inflammatory bowel disease predispose to colorectal cancer?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37380142",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37393964",
+        "http://www.ncbi.nlm.nih.gov/pubmed/38046455"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: The aim of the present study was to compare causative bacteria and their antibiotic resistance profiles in patients developing a periprosthetic joint infection (PJI) based on preoperative prophylactic antibiotic regimens in primary total hip (THA) and primary total and unicompartmental knee arthroplasty (TKA/UKA).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37380142",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 327
+        }
+      ],
+      "id": "66088ffafdcbea915f00000f",
+      "type": "factoid",
+      "body": "In what part of the body would a periprosthetic infection occur?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37501568",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33614572",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37131177"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "social determinants contribute directly and indirectly (through lifestyle) to life expectancy",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37501568",
+          "offsetInBeginSection": 658,
+          "offsetInEndSection": 751
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "community SDOH play an important role in diabetes control and management",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33614572",
+          "offsetInBeginSection": 2230,
+          "offsetInEndSection": 2302
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "adolescent childbearing in ten countries according to social determinants like milieu (rural-urban), education level, wealth quintiles, territoriality (countries, regions) and nationality",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37131177",
+          "offsetInBeginSection": 219,
+          "offsetInEndSection": 406
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Poor, rural and non-educated adolescent girls are more exposed to teenage childbearing than their counterparts-rich, urban and educated girls",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37131177",
+          "offsetInBeginSection": 1194,
+          "offsetInEndSection": 1335
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "According to different social determinants, sensible variations are seen in terms of adolescent pregnancy and motherhood",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37131177",
+          "offsetInBeginSection": 1348,
+          "offsetInEndSection": 1468
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "reduce child marriage and pregnancy by acting on social determinants of health, targeting disadvantaged girls coming mainly from marginalised groups and poor families living in remote rural zones",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37131177",
+          "offsetInBeginSection": 1565,
+          "offsetInEndSection": 1760
+        }
+      ],
+      "id": "65f86b3ac4010b4d78000058",
+      "type": "factoid",
+      "body": "What is the estimated impact of social determinants of health on health outcomes?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/35307800"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Controversy remains regarding resuscitation fluid volume and type, antibiotic choices depending upon infectious risks in the patient\u0027s community, and adjunctive therapies such as vitamin C, corticosteroids, intravenous immunoglobulin, and methylene blue. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35307800",
+          "offsetInBeginSection": 940,
+          "offsetInEndSection": 1195
+        }
+      ],
+      "id": "660c49f4fdcbea915f000034",
+      "type": "yesno",
+      "body": "Should corticosteroids be considered as adjunctive therapy in paediatric sepsis management?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36626099",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36752829",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36720271",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36326768",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37498796",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37440743",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37475115"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Monkeypox may be treated with tecovirimat, cidofovir, or brincidofovir, and prevention with the vaccination JYNNEOS is recommended. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36626099",
+          "offsetInBeginSection": 897,
+          "offsetInEndSection": 1029
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "This case highlights magnetic resonance (MR) neurography findings in an individual who developed Parsonage-Turner syndrome (PTS) 5 days after monkeypox symptom onset and 12 days after receiving the JYNNEOS vaccination.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36752829",
+          "offsetInBeginSection": 117,
+          "offsetInEndSection": 335
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The smallpox and mpox vaccine (JYNNEOS; Modified Vaccinia Ankara-Bavarian Nordic; MVA-BN), provided as a two-dose regimen, is currently the primary vaccine utilized against mpox. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36720271",
+          "offsetInBeginSection": 153,
+          "offsetInEndSection": 332
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Smallpox vaccines (JYNNEOS [Bavarian Nordic] and ACAM2000 [Emergent Product Development Gaithersburg Inc]) provide immunity against monkeypox.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36326768",
+          "offsetInBeginSection": 1804,
+          "offsetInEndSection": 1946
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In August 2022, the Food and Drug Administration authorized JYNNEOS vaccine (modified vaccinia Ankara vaccine, Bavarian Nordic), a 2-dose series used for the prevention of Monkeypox virus infection, to be administered via a dose-sparing intradermal route, in addition to the previously authorized subcutaneous route. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37498796",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 317
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Jynneos (smallpox and mpox vaccine, live, nonreplicating) is a live, attenuated vaccine that is safe for patients who are immunocompromised.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37440743",
+          "offsetInBeginSection": 643,
+          "offsetInEndSection": 784
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Licensed and approved for mpox, the JYNNEOS vaccine has fewer side-effects than previous smallpox vaccines and has shown immunogenicity against monkeypox in animal models. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37475115",
+          "offsetInBeginSection": 153,
+          "offsetInEndSection": 325
+        }
+      ],
+      "id": "65cfdc561930410b13000026",
+      "type": "list",
+      "body": "JYNNEOS vaccine is protective against which diseases?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37884842"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CINV induced by mFFX was poorly controlled even with prophylactic antiemetic therapy using 5HT3RA, DEX, and NK1RA, and was found to persist beyond 5 days",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37884842",
+          "offsetInBeginSection": 1255,
+          "offsetInEndSection": 1408
+        }
+      ],
+      "id": "65f7798dc4010b4d78000038",
+      "type": "factoid",
+      "body": "What is the optimal antiemetic treatment for FOLFIRINOX chemotherapy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/35962646",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34873135",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37965360",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35505689"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "have experienced an abrupt onset of unusual clinical symptoms including, tinnitus, visual problems, vertigo, and cognitive difficulties, after they encountered strange sounds; this has been called \"Havana syndrome",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35962646",
+          "offsetInBeginSection": 132,
+          "offsetInEndSection": 345
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Clinical and Psychological Factors Associated With Return to Work Among United States Diplomats Who Sustained a Work-Related Injury While on Assignment in Havana, Cuba.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34873135",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 168
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ntroduction: In 2016 diplomatic personnel serving in Havana, Cuba, began reporting audible sensory phenomena paired with onset of complex and persistent neurological symptoms consistent with brain injury.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37965360",
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 205
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Diplomats representing the USA have reported with unusual neurologic symptoms and MRI changes after being posted in Havana, Cuba between late 2016 and 2018",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35505689",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 155
+        }
+      ],
+      "id": "65f857b0c4010b4d7800004f",
+      "type": "list",
+      "body": "Please list the symptoms of Havana syndrome"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36829980"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "respiratory distress, bronchopulmonary dysplasia, retinopathy of prematurity, periventricular leukomalacia, necrotizing enterocolitis, neonatal sepsis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36829980",
+          "offsetInBeginSection": 1188,
+          "offsetInEndSection": 1338
+        }
+      ],
+      "id": "660c0a85fdcbea915f000030",
+      "type": "list",
+      "body": "What are common complications of prematurity for babies?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36762852",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36137599",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37156088",
+        "http://www.ncbi.nlm.nih.gov/pubmed/38010691"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: In a trial conducted in China, patients with large cerebral infarctions had better outcomes with endovascular therapy administered within 24 hours than with medical management alone but had more intracranial hemorrhages. (Funded by Covidien Healthcare International Trading [Shanghai] and others; ANGEL-ASPECT ClinicalTrials.gov number, NCT04551664.).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36762852",
+          "offsetInBeginSection": 2150,
+          "offsetInEndSection": 2514
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Endovascular therapy in acute anterior circulation large vessel occlusive patients with a large infarct core (ANGEL-ASPECT): protocol of a multicentre randomised trial.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36137599",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 168
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "DESIGN: ANGEL-ASPECT is a multicentre, prospective, randomised, open-label, blinded End-point trial to evaluate whether best medical management (BMM) combined with endovascular therapy improves neurological functional outcomes as compared with BMM alone in acute LVO patients with Alberta Stroke Program Early CT Score (ASPECTS) of 3-5 on non-contrast CT or infarct core volume range of 70-100 mL (defined as rCBF \u003c30% on CT perfusion or ADC \u003c620 on MRI) up to 24 hours from symptom onset or last seen well.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36137599",
+          "offsetInBeginSection": 294,
+          "offsetInEndSection": 801
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "OBJECTIVES: Recently published results of the ANGEL-ASPECT and SELECT2 trials suggest that stroke patients presenting with low Alberta Stroke Program Early Computed Tomography Score (ASPECTS) benefit from mechanical thrombectomy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37156088",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 229
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Alberta Stroke Program Early Computed Tomography Score, Infarct Core Volume, and Endovascular Therapy Outcomes in Patients With Large Infarct: A Secondary Analysis of the ANGEL-ASPECT Trial.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38010691",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 190
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "This prespecified secondary analysis of subgroups of the Endovascular Therapy in Acute Anterior Circulation Large Vessel Occlusive Patients With a Large Infarct Core (ANGEL-ASPECT) RCT included patients from 46 stroke centers across China between October 2, 2020, and May 18, 2022.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38010691",
+          "offsetInBeginSection": 422,
+          "offsetInEndSection": 703
+        }
+      ],
+      "id": "65d145651930410b13000042",
+      "type": "summary",
+      "body": "What disease was studied in the ANGEL-ASPECT trial?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34026368",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30116425"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tumors in the proximal colon (right side) and distal colon (left side) exhibit different molecular characteristics and histology. In the right-sided tumors, mutations in the DNA mismatch repair pathway are commonly observed; and these tumors generally have a flat histology. In the left-sided tumors, chromosomal instability pathway-related mutations, such as KRAS, APC, PIK3CA, p53 mutations are observed and these tumors demonstrate polypoid-like morphology. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30116425",
+          "offsetInBeginSection": 293,
+          "offsetInEndSection": 754
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " The analysis of the immune microenvironment showed that immune infiltration was more common in RCC than LCC. The results of differential gene analysis showed that there were 360 differentially expressed genes, with 142 upregulated genes in LCC and 218 upregulated genes in RCC. The mutation frequency of RCC was generally higher than that of LCC. BRAF and KRAS gene mutations were the dominant genes mutations in RCC, and they had a strong mutual exclusion with APC, while APC gene mutation was the dominant gene mutation in LCC. This suggests that the molecular mechanisms of RCC and LCC differed.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34026368",
+          "offsetInBeginSection": 1279,
+          "offsetInEndSection": 1878
+        }
+      ],
+      "id": "65f773cdc4010b4d78000026",
+      "type": "summary",
+      "body": "Why is the clinical benefit of EGFR inhibitors different in right and left colorectal cancer?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/30472182",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29861876"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "he permeability of Cx43 channels to small molecules and macromolecules makes them highly attractive targets for delivering drugs directly into the cytoplasm.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30472182",
+          "offsetInBeginSection": 763,
+          "offsetInEndSection": 920
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Cancer cells overexpressing Cx43 may be more permeable and sensitive to chemotherapeutics.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30472182",
+          "offsetInBeginSection": 921,
+          "offsetInEndSection": 1011
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "n this context, certain channels lead to transitory plasma membrane permeability changes, such as pannexin, connexin hemmichannels, TRPV1-4 and P2×7, which allow for the non-selective passage of molecules up to 1,000 Da. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29861876",
+          "offsetInBeginSection": 1213,
+          "offsetInEndSection": 1434
+        }
+      ],
+      "id": "660712a1fdcbea915f000003",
+      "type": "yesno",
+      "body": "Can Connexin hemi channels be used for drug delivery?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/10835092",
+        "http://www.ncbi.nlm.nih.gov/pubmed/9039448",
+        "http://www.ncbi.nlm.nih.gov/pubmed/7579326"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "M. bovis infection was recognised as a major public health problem when this organism was transmitted to man via milk from infected cows. The introduction of pasteurization helped eliminate this problem.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/7579326",
+          "offsetInBeginSection": 1231,
+          "offsetInEndSection": 1434
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "cut-off in the animal to human chain of infection at two points; the animal source and the ingestion of (now pasteurized) milk. This would suggest that disease in humans is now due to reactivation of previous foci of infection which were acquired when milk pasteurization was not compulsory. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9039448",
+          "offsetInBeginSection": 1038,
+          "offsetInEndSection": 1330
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "M bovis patients were also even more likely to be Hispanic (90.2%), to present with extrapulmonary disease (95.1%), and to be older than 12 months (96.8%).CONCLUSION: These data demonstrate the dramatic impact of this underappreciated cause of zoonotic TB on US children at the Mexican border and underscore the need for cross-collaboration to enforce existing Mexican pasteurization laws.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/10835092",
+          "offsetInBeginSection": 1181,
+          "offsetInEndSection": 1570
+        }
+      ],
+      "id": "660c02e1fdcbea915f00002c",
+      "type": "yesno",
+      "body": "Pasteurization kills Mycobacterium tuberculosis from infected cattle."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37494485",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37001988"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "METHODS: We conducted a phase 2, randomized, placebo-controlled trial of TAK-994, an oral orexin receptor 2-selective agonist, in patients with narcolepsy type 1.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37494485",
+          "offsetInBeginSection": 93,
+          "offsetInEndSection": 255
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "TAK-994, a Novel Orally Available Brain-Penetrant Orexin 2 Receptor-Selective Agonist, Suppresses Fragmentation of Wakefulness and Cataplexy-Like Episodes in Mouse Models of Narcolepsy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37001988",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 185
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These findings indicate that TAK-994 is an orally available brain-penetrant OX2R-selective agonist with potential to improve narcolepsy-like symptoms.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37001988",
+          "offsetInBeginSection": 2127,
+          "offsetInEndSection": 2277
+        }
+      ],
+      "id": "65cfd3961930410b1300001f",
+      "type": "factoid",
+      "body": "TAK-994 is developed for which disease?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/35016085"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Bevacizumab-induced HTN during the first-line treatment of mCRC is an independent prognostic factor, also adopting a time-dependency correction",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35016085",
+          "offsetInBeginSection": 2166,
+          "offsetInEndSection": 2309
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In TRIBE and TRIBE-2 study populations (N \u003d 1175), patients experiencing ≥ G2 HTN during first-line bevacizumab administration showed longer PFS (median: 14.7 versus 10.3 months, p \u003c 0.001) and OS (median: 31.7 versus 24.2 months, p \u003c 0.001).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35016085",
+          "offsetInBeginSection": 1485,
+          "offsetInEndSection": 1727
+        }
+      ],
+      "id": "66099b20fdcbea915f000021",
+      "type": "yesno",
+      "body": "Is high blood pressure a clinical biomarker of response to Bevacizumab in advanced colorectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/35867193",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37210302",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37933195",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33180323",
+        "http://www.ncbi.nlm.nih.gov/pubmed/26513113"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Deep Venous Thrombosis in Acute Pancreatitis Is Associated with High Mortality",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35867193",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 78
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": ": Splanchnic vein thrombosis (SVT) is a well-recognised though little-studied complication in acute pancreatitis (AP)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37210302",
+          "offsetInBeginSection": 10,
+          "offsetInEndSection": 127
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Acute pancreatitis-induced splanchnic vein thrombosis (APISVT) is an important sequela complication of acute pancreatitis, which may cause poor prognosis, such as severe gastrointestinal hemorrhage, bowel ischemic necrosis and liver failure.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37933195",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 241
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Splanchnic vein thrombosis (SVT) is an uncommon but potentially life-threatening disease usually related to different underlying clinical conditions",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33180323",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 160
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Splanchnic vein thrombosis (SVT) is a potentially severe complication of pancreatitis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26513113",
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 98
+        }
+      ],
+      "id": "66088cccfdcbea915f00000b",
+      "type": "summary",
+      "body": "What is the significance of Acute pancreatitis-induced splanchnic vein thrombosis"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32541923",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34802900"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "hyperuricemia",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34802900",
+          "offsetInBeginSection": 495,
+          "offsetInEndSection": 508
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "effect of various dietary approaches on hyperuricemia among people with gout",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34802900",
+          "offsetInBeginSection": 625,
+          "offsetInEndSection": 701
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "dietary factors appear to have a small effect on serum urate levels",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34802900",
+          "offsetInBeginSection": 746,
+          "offsetInEndSection": 813
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Urate-lowering therapy remains the mainstay of therapy",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34802900",
+          "offsetInBeginSection": 1077,
+          "offsetInEndSection": 1131
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Gout is the most common inflammatory arthritis and occurs when hyperuricaemia, sustained elevation of serum urate levels resulting in supersaturation of body tissues with urate, leads to the formation and deposition of monosodium urate crystals in and around the joints",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32541923",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 269
+        }
+      ],
+      "id": "660d6cc3fdcbea915f00003d",
+      "type": "yesno",
+      "body": "Is gout a very common inflammatory arthritis, which is caused by hyperbilirubinemia?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37366315",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37086147",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37385280"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Retatrutide (LY3437943) is an agonist of the glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37366315",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 152
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Is retatrutide (LY3437943), a GLP-1, GIP, and glucagon receptor agonist a step forward in the treatment of diabetes and obesity?",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37086147",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 128
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "AREAS COVERED: A multiple-ascending dose phase 1b clinical trial of a new drug retatrutide (LY3437943), which in addition to stimulating Glucagon-like peptide 1 (GLP-1) and Glucose-dependent insulinotropic polypeptide (GIP) receptors, stimulates glucagon receptors, in subjects with type 2 diabetes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37086147",
+          "offsetInBeginSection": 282,
+          "offsetInEndSection": 581
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Retatrutide, a GIP, GLP-1 and glucagon receptor agonist, for people with type 2 diabetes: a randomised, double-blind, placebo and active-controlled, parallel-group, phase 2 trial conducted in the USA.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37385280",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 200
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Retatrutide, a single peptide with agonist activity at the glucose-dependent insulinotropic polypeptide (GIP), GLP-1, and glucagon receptors, showed clinically meaningful glucose-lowering and bodyweight-lowering efficacy in a phase 1 study. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37385280",
+          "offsetInBeginSection": 156,
+          "offsetInEndSection": 397
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "INTERPRETATION: In people with type 2 diabetes, retatrutide showed clinically meaningful improvements in glycaemic control and robust reductions in bodyweight, with a safety profile consistent with GLP-1 receptor agonists and GIP and GLP-1 receptor agonists.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37385280",
+          "offsetInBeginSection": 4779,
+          "offsetInEndSection": 5037
+        }
+      ],
+      "id": "65cfce461930410b1300001a",
+      "type": "list",
+      "body": "What receptors are targeted by Retatrutide?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24264989"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "disruption of the microbiota impairs the response of subcutaneous tumors to CpG-oligonucleotide immunotherapy and platinum chemotherapy. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24264989",
+          "offsetInBeginSection": 275,
+          "offsetInEndSection": 412
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The gut microbiota influences both local and systemic inflammation. Inflammation contributes to development, progression, and treatment of cancer,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24264989",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 146
+        }
+      ],
+      "id": "65f77919c4010b4d78000036",
+      "type": "summary",
+      "body": "What is the mechanism by which the microbiota module the effectiveness of chemotherapy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36951152",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37846131",
+        "http://www.ncbi.nlm.nih.gov/pubmed/38052038"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "tagraxofusp, a CD123-targeting drug consisting of the ligand for CD123, interleukin 3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36951152",
+          "offsetInBeginSection": 477,
+          "offsetInEndSection": 562
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tagraxofusp (or SL-401) is a recombinant molecule composed of human interleukin-3 that binds CD123 on neoplastic cells fused to a truncated diphtheria toxin (DT). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37846131",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 163
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tagraxofusp (TAG), recombinant interleukin-3 fused to a truncated diphtheria toxin payload, is a first-in-class drug targeting CD123 approved for treatment of blastic plasmacytoid dendritic cell neoplasm. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38052038",
+          "offsetInBeginSection": 104,
+          "offsetInEndSection": 309
+        }
+      ],
+      "id": "660a8fc4fdcbea915f000027",
+      "type": "summary",
+      "body": "What is Tagraxofusp?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34458944",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31471487",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32952827"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Male breast cancer (MBC) is rare, accounting for less than 1% of all breast cancer",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34458944",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 82
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Risk factors include increased longevity, obesity, testicular diseases and tumours, and germline mutations of BRCA2. BRCA2 carriers have 80 times the risk of the general population",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34458944",
+          "offsetInBeginSection": 126,
+          "offsetInEndSection": 306
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Men generally present with breast cancer at an older age compared with women",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34458944",
+          "offsetInBeginSection": 308,
+          "offsetInEndSection": 384
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "grade 2, hormone receptor positive, HER2 negative, and no special type carcinoma although in situ and invasive papillary carcinomas are common",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34458944",
+          "offsetInBeginSection": 418,
+          "offsetInEndSection": 560
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Breast cancer occurs in about 1% of men",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31471487",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 39
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The most common histological type was invasive ductal carcinoma",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32952827",
+          "offsetInBeginSection": 780,
+          "offsetInEndSection": 843
+        }
+      ],
+      "id": "660d6f0cfdcbea915f00003e",
+      "type": "summary",
+      "body": "What is the epidemiology of breast cancer in men?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36648369",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36396025",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36377139",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37360907",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37473778",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37345876"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The entry inhibitor bulevirtide (BLV) is a new treatment option for patients with chronic hepatitis D virus (HDV) infection and compensated liver disease. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36648369",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 155
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Kinetics and predictive value of HBcrAg, HBV RNA and anti-HBc during bulevirtide treatment of chronic HDV-infected patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36648369",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 124
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Bulevirtide, an entry inhibitor, was conditionally approved in July 2020 in the European Union for adult patients with chronic hepatitis delta (CHD) and compensated liver disease. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36396025",
+          "offsetInBeginSection": 601,
+          "offsetInEndSection": 781
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "To our knowledge, this is the first reported case of a pembrolizumab-induced exacerbation of hepatitis D and a successful management by application of bulevirtide in the context of cancer.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36377139",
+          "offsetInBeginSection": 1397,
+          "offsetInEndSection": 1585
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Background \u0026 Aims: Bulevirtide (BLV) is a novel antiviral drug licensed for the treatment of chronic hepatitis D.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37360907",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 113
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Long-term follow-up of patients discontinuing bulevirtide treatment upon long-term HDV-RNA suppression.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37360907",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 103
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Pegylated interferon (off-label use) has long been the only available treatment, although bulevirtide is conditionally approved in some European countries. There are many potential treatments in development, but as yet, there are few effective and safe therapies for HDV infection. I",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37473778",
+          "offsetInBeginSection": 920,
+          "offsetInEndSection": 1203
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "A Phase 3, Randomized Trial of Bulevirtide in Chronic Hepatitis D.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37345876",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 66
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Bulevirtide inhibits the entry of HDV into hepatocytes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37345876",
+          "offsetInBeginSection": 135,
+          "offsetInEndSection": 190
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: After 48 weeks of bulevirtide treatment, HDV RNA and ALT levels were reduced in patients with chronic hepatitis D. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37345876",
+          "offsetInBeginSection": 2259,
+          "offsetInEndSection": 2387
+        }
+      ],
+      "id": "65cfdaae1930410b13000025",
+      "type": "factoid",
+      "body": "What disease can be treatment with Bulevirtide?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37174033",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34963563"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A plethora of potential chemotherapy schedules are available around the radiotherapy component, which include preoperative induction or consolidation with a range of options (FOLFOXIRI, FOLFOX, or CAPEOX,) ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37174033",
+          "offsetInBeginSection": 1243,
+          "offsetInEndSection": 1449
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Neoadjuvant mFOLFOXIRI regimens improved pCR rate and survival outcome, reduced the rate of distant metastasis and anastomotic fistula when comparing with propensity-score matched controls of mFOLFOX6 neoadjuvant chemotherapy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34963563",
+          "offsetInBeginSection": 1606,
+          "offsetInEndSection": 1832
+        }
+      ],
+      "id": "65f7785dc4010b4d78000033",
+      "type": "factoid",
+      "body": "Which initial chemotherapy regimen is the most appropriate in Total Neoadjuvant Therapy (TNT) for locally advanced rectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37465385",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36750663",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37027300"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Soluble N-ethylmaleimide-sensitive factor attachment protein receptors (R-SNAREs) mainly promoted the assembly of the SNARE complex to drive the final membrane fusion step of membrane transport",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37465385",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 193
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The dynamic assembly of the Synaptic-soluble N-ethylmaleimide-sensitive factor Attachment REceptor (SNARE) complex is crucial to understand membrane fusion. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36750663",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 157
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The AAA+ NSF complex is responsible for SNARE complex disassembly both before and after membrane fusion.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37027300",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 104
+        }
+      ],
+      "id": "66088d66fdcbea915f00000c",
+      "type": "factoid",
+      "body": "In what part of the cell would a SNARE Soluble N-ethylmaleimide-sensitive factor attachment protein receptors (SNAREs) be found"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37997816",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34506740"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "molecular pathogenic mechanisms shared throughout microbial niches that contribute to the initiation and progression of cancer",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34506740",
+          "offsetInBeginSection": 737,
+          "offsetInEndSection": 863
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "how the microbiome may causally impact cancer and its treatment responsiveness",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34506740",
+          "offsetInBeginSection": 944,
+          "offsetInEndSection": 1022
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "how microorganisms or their secreted bioactive metabolites may be potentially harnessed and targeted as precision cancer therapeutics",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34506740",
+          "offsetInBeginSection": 1028,
+          "offsetInEndSection": 1161
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Different pre‑clinical and clinical models are available for studying cancer development downstream of gut microbiome dysbiosis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37997816",
+          "offsetInBeginSection": 1600,
+          "offsetInEndSection": 1727
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Dysbiosis of the gut microbiota can alter the metabolite profile, whilst increasing the levels of toxins, such as Bacteroides fragilis toxin and colibactin and cytolethal distending toxin, which are responsible for oncogenesis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37997816",
+          "offsetInBeginSection": 1138,
+          "offsetInEndSection": 1364
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "impact of gut microbiome dysbiosis on the progression of different types of cancers associated with obesity",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37997816",
+          "offsetInBeginSection": 1412,
+          "offsetInEndSection": 1519
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "relationship between the gut microbiome and obesity‑associated malignancies, including colorectal, gastric and liver cancer",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37997816",
+          "offsetInBeginSection": 787,
+          "offsetInEndSection": 910
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "obesity‑associated microbiome alterations can lead to cancer and its progression",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37997816",
+          "offsetInBeginSection": 1056,
+          "offsetInEndSection": 1136
+        }
+      ],
+      "id": "660c0895fdcbea915f00002f",
+      "type": "summary",
+      "body": "Relevance of tumoral microbiome."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37502867",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37256143",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37296593",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35533645",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36741943",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36896700",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36877454"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Teplizumab has been approved for the delay of the onset of type 1 diabetes and may modulate new onset disease.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37502867",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 110
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "An anti-CD3 antibody, teplizumab, was recently shown to delay clinical progression to T1D in high-risk individuals including adults and older children. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37256143",
+          "offsetInBeginSection": 650,
+          "offsetInEndSection": 802
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Within the National Clinical Trial (NCT) database, a vast majority of over 3000 trials to treat T1D are devoted to insulin therapy. This review focuses on non-insulin pharmacological therapies. Many investigational new drugs fall under the category of immunomodulators, such as the recently FDA-approved CD-3 monoclonal antibody teplizumab. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37296593",
+          "offsetInBeginSection": 440,
+          "offsetInEndSection": 781
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Furthermore, regarding the timing of intervention, teplizumab was the first immunomodulatory agent to demonstrate a significant delay in disease progression in high-risk individuals before clinical onset.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35533645",
+          "offsetInBeginSection": 1103,
+          "offsetInEndSection": 1307
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Context: Participants with stage 1 or 2 type 1 diabetes (T1D) qualify for prevention trials, but factors involved in screening for such trials are largely unknown.Objective: To identify factors associated with screening for T1D prevention trials.Methods: This study included TrialNet Pathway to Prevention participants who were eligible for a prevention trial: oral insulin (TN-07, TN-20), teplizumab (TN-10), abatacept (TN-18), and oral hydroxychloroquine (TN-22). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36741943",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 466
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We focus on phase 2 clinical trials with promising results, thus avoiding the exhausted list of every new therapy for T1DM.EXPERT OPINION: Teplizumab has demonstrated potential as a preventative agent for individuals at risk prior to the onset of overt dysglycemia. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36896700",
+          "offsetInBeginSection": 496,
+          "offsetInEndSection": 762
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Teplizumab (teplizumab-mzwv; TZIELD™) is a CD3-directed monoclonal antibody (humanized IgG1κ) that is being developed by Provention Bio, Inc. for the treatment of type 1 diabetes (T1D). In November 2022, teplizumab was approved in the USA to delay the onset of Stage 3 T1D in adults and pediatric patients 8 years of age and older with Stage 2 T1D, based on results of a clinical trial in high-risk relatives of individuals with T1D. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36877454",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 434
+        }
+      ],
+      "id": "65cf6ae91930410b13000007",
+      "type": "factoid",
+      "body": "What disease is treated with Teplizumab?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34406678",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28894015"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Patients treated with FTD/TPI had better tumor response and disease control than patients treated with regorafenib",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34406678",
+          "offsetInBeginSection": 1664,
+          "offsetInEndSection": 1778
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Although no difference in overall survival was found between the two drugs in adjusted analysis using propensity score, regorafenib showed favorable survival in patients aged \u003c65 years, whereas trifluridine/tipiracil was favored in patients aged ≥65 years in the subgroup analysis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28894015",
+          "offsetInBeginSection": 2180,
+          "offsetInEndSection": 2460
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Regorafenib showed favorable survival in patients aged \u003c65 years (HR, 1.29; 95% CI, 0.98-1.69), whereas TFTD was favored in patients aged ≥65 years (HR, 0.78; 95% CI, 0.59-1.03).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28894015",
+          "offsetInBeginSection": 1194,
+          "offsetInEndSection": 1372
+        }
+      ],
+      "id": "65f7778fc4010b4d78000031",
+      "type": "yesno",
+      "body": "Is Trifluridine/Tipiracil a preferential treatment over Regorafenib in elderly colorectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36802593",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37246715",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35781884",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35817801"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Diphthamide, a post-translationally modified histidine residue of eukaryotic TRANSLATION ELONGATION FACTOR2 (eEF2), ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35817801",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 116
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Diphthamide biosynthesis protein 1 (DPH1) is biochemically involved in the first step of diphthamide biosynthesis, a post-translational modification of eukaryotic elongation factor 2 (EEF2). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35781884",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 191
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Diphthamide (DPH), a conserved amino acid modification on eukaryotic translation elongation factor eEF2, is synthesized via a complex, multi-enzyme pathway.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37246715",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 156
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "It catalyzes the ADP-ribosylation of a post-translationally modified histidine (diphthamide) on eukaryotic elongation factor 2 (eEF2)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36802593",
+          "offsetInBeginSection": 150,
+          "offsetInEndSection": 283
+        }
+      ],
+      "id": "66088bbafdcbea915f00000a",
+      "type": "summary",
+      "body": "What is the function of Diphthamide?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/35931921",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36343866",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37728394"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Rabies is a lethal zoonotic disease mainly transmitted to humans by dog bites",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35931921",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 77
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Rabies is an acute lethal infectious disease caused by a lyssavirus infection",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36343866",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 89
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Rabies, a lethal zoonotic encephalitis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37728394",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 38
+        }
+      ],
+      "id": "660d6a97fdcbea915f00003c",
+      "type": "yesno",
+      "body": "Without immunization, rabies is a lethal disease."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37611121",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37774359",
+        "http://www.ncbi.nlm.nih.gov/pubmed/38052910"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Single-Agent Divarasib (GDC-6036) in Solid Tumors with a KRAS G12C Mutation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37611121",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 76
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Divarasib (GDC-6036) is a covalent KRAS G12C inhibitor that was designed to have high potency and selectivity.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37611121",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 122
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Treatment with divarasib resulted in durable clinical responses across KRAS G12C-positive tumors, with mostly low-grade adverse events.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37611121",
+          "offsetInBeginSection": 1706,
+          "offsetInEndSection": 1854
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Here, we describe the identification and characterization of GDC-1971 (formerly RLY-1971), a SHP2 inhibitor currently in clinical trials in combination with KRAS G12C inhibitor divarasib (GDC-6036) for the treatment of solid tumors driven by a KRAS G12C mutation.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37774359",
+          "offsetInBeginSection": 437,
+          "offsetInEndSection": 700
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Divarasib plus cetuximab in KRAS G12C-positive colorectal cancer: a phase 1b trial.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38052910",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 83
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Divarasib, a KRAS G12C inhibitor, has shown modest activity as a single agent in KRAS G12C-positive CRC at 400 mg. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38052910",
+          "offsetInBeginSection": 105,
+          "offsetInEndSection": 220
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The manageable safety profile and encouraging antitumor activity of divarasib plus cetuximab support the further investigation of this combination in KRAS G12C-positive CRC.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38052910",
+          "offsetInBeginSection": 1404,
+          "offsetInEndSection": 1577
+        }
+      ],
+      "id": "65cfaf7e1930410b13000016",
+      "type": "factoid",
+      "body": "What is the target of Divarasib?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37142372"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tucatinib plus trastuzumab had clinically meaningful anti-tumour activity and favourable tolerability. This treatment is the first US Food and Drug Administration-approved anti-HER2 regimen for metastatic colorectal cancer and is an important new treatment option for chemotherapy-refractory HER2-positive metastatic colorectal cancer.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37142372",
+          "offsetInBeginSection": 3128,
+          "offsetInEndSection": 3463
+        }
+      ],
+      "id": "65f77a71c4010b4d7800003b",
+      "type": "factoid",
+      "body": "What is the appropriate treatment in HER2Neu amplificated refractory advanced colorectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/35993875",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36163614"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Basket trials are increasingly used for the simultaneous evaluation of a new treatment in various patient subgroups under one overarching protocol. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35993875",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 148
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The phase II basket trial in oncology is a novel design that enables the simultaneous assessment of treatment effects of one anti-cancer targeted agent in multiple cancer types.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36163614",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 177
+        }
+      ],
+      "id": "66088f67fdcbea915f00000e",
+      "type": "summary",
+      "body": "What is a basket trial?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37546121",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33573512"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "atypical presentations can pose diagnostic challenges, particularly when hematological abnormalities are the primary manifestation",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37546121",
+          "offsetInBeginSection": 225,
+          "offsetInEndSection": 355
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "paraesthesia, numbness in her hands and feet, marked thinness, extreme thrombocytosis, severe anemia, and mild electrolyte imbalance",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37546121",
+          "offsetInBeginSection": 425,
+          "offsetInEndSection": 557
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CD as a potential cause for atypical hematological manifestations, such as extreme thrombocytosis secondary to severe anemia",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37546121",
+          "offsetInBeginSection": 915,
+          "offsetInEndSection": 1039
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "stunted growth",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33573512",
+          "offsetInBeginSection": 462,
+          "offsetInEndSection": 476
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "underweight",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33573512",
+          "offsetInBeginSection": 481,
+          "offsetInEndSection": 492
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Irritability, anaemia, rickets, dermatitis herpetiformis, alopecia and intussusception",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33573512",
+          "offsetInBeginSection": 494,
+          "offsetInEndSection": 580
+        }
+      ],
+      "id": "660d2d6afdcbea915f00003b",
+      "type": "list",
+      "body": "What are atypical symptoms of gluten allergy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37290930",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37564156",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30738649"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: In patients who had an ischaemic stroke, ultra-acute administration of transdermal GTN in the ambulance did not improve clinical outcomes in a population with more clinical and radiological frailty than seen in previous in-hospital trials.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37290930",
+          "offsetInBeginSection": 1690,
+          "offsetInEndSection": 1942
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Background: The Rapid Intervention with Glyceryl Trinitrate in Hypertensive Stroke Trial-2 (RIGHT-2) reported no overall treatment difference between glyceryl trinitrate (GTN) and sham at day 90. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37564156",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 196
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Conclusion: At 1 year post randomisation, dependency did not differ between GTN and sham treatment in either the target population or overall. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37564156",
+          "offsetInBeginSection": 1452,
+          "offsetInEndSection": 1595
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "INTERPRETATION: Prehospital treatment with transdermal GTN does not seem to improve functional outcome in patients with presumed stroke. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30738649",
+          "offsetInBeginSection": 2858,
+          "offsetInEndSection": 2995
+        }
+      ],
+      "id": "65d136081930410b1300003a",
+      "type": "yesno",
+      "body": "Is transdermal glyceryl trinitrate effective for stroke?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34485534"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The microbiota may affect tumor immunity by regulating the host immune system and tumor microenvironment. Some bacteria help fight tumors by activating immunity, while some bacteria mediate immunosuppression to help cancer cells escape from the immune system.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34485534",
+          "offsetInBeginSection": 481,
+          "offsetInEndSection": 740
+        }
+      ],
+      "id": "65f7794dc4010b4d78000037",
+      "type": "summary",
+      "body": "What is the mechanism by which the microbiota modulates the effectiveness of immunotherapy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33704902",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35781884",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32576952"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Variants of the diphthamide biosynthesis I (DPH1, OMIM*603527) are associated with developmental delay, short stature, and sparse hair syndrome (DEDSSH/DPH1 syndrome) (OMIM# 616901). Another name is Loucks-Innes syndrome. DPH1 syndrome is an ultrarare and severe neurodevelopmental disorder. L",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33704902",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 293
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These findings indicate that diphthamide deficiency differentially regulates hepatocellular carcinogenesis, which inhibits pericentral hepatocyte-derived tumors and promotes periportal progenitor-associated liver tumors. © 2022 The Pathological Society of Great Britain and Irelan",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35781884",
+          "offsetInBeginSection": 2109,
+          "offsetInEndSection": 2389
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Diphthamide-deficiency syndrome: a novel human developmental disorder and ribosomopathy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32576952",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 88
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "he human DPH1 syndrome is an autosomal recessive disorder associated with developmental delay, abnormal head circumference (microcephaly or macrocephaly), short stature, and congenital heart disease",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32576952",
+          "offsetInBeginSection": 430,
+          "offsetInEndSection": 628
+        }
+      ],
+      "id": "660a912dfdcbea915f000028",
+      "type": "summary",
+      "body": "What is the results of diphthamide deficiency?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34353207",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31474378",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29287833",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30345135"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Sydenham\u0027s chorea is an autoimmune chorea emerging after a group A beta-hemolytic streptococcal (GABHS) infection, i.e. a rheumatic chorea with or without the presence of carditis or arthritis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34353207",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 192
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "He was subsequently diagnosed with chorea by the neurology team. The cause of chorea was later determined to be SC, and the patient\u0027s throat swab came back positive for group A-beta hemolytic strep (GAS) infection",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31474378",
+          "offsetInBeginSection": 975,
+          "offsetInEndSection": 1188
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Sydenham\u0027s chorea (SC) is an immune-mediated hyperkinetic movement disorder, developing after group A Beta-hemolytic streptococcal (GABHS) infection",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29287833",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 148
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Immune-mediated central nervous system manifestations of group A β-hemolytic Streptococcus (GABHS) infection include Sydenham\u0027s chorea",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30345135",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 134
+        }
+      ],
+      "id": "660c06b8fdcbea915f00002e",
+      "type": "summary",
+      "body": "What is the cause of Sydenham\u0027s chorea?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36467033",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30740861",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28799414",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30335259"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Introduction: IDegLira (brand name Xultophy) is a novel fixed ratio combination of insulin degludec and liraglutide for type 2 diabetes (T2D) patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36467033",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 151
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "AIM: To evaluate the long-term cost-effectiveness of fixed-ratio combination insulin degludec/liraglutide (IDegLira) versus comparator regimens for type 2 diabetes in Spain, based on real-world evidence.MATERIALS AND METHODS: Clinical data were taken from the European Xultophy Treatment Retrospective Audit (EXTRA) real-world evidence study in which patients failing to meet glycaemic targets were switched to IDegLira. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30740861",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 421
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "The Clinical Use of a Fixed-Dose Combination of Insulin Degludec and Liraglutide (Xultophy 100/3.6) for the Treatment of Type 2 Diabetes.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28799414",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 137
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "[Basal insulin degludec - liraglutide fixed ratio combination (Xultophy®)].",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30335259",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 75
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Xultophy® (IDegLira) is a fixed ratio combination of basal insulin degludec and glucagon-like peptide-1 (GLP-1) receptor agonist liraglutide. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30335259",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 142
+        }
+      ],
+      "id": "65d375011930410b1300004a",
+      "type": "list",
+      "body": "What are active ingredients of Xultophy pill?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/28637434"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "An examination of more UGT1A loci, except for UGT1A1*6 and UGT1A1*28, was not helpful to improve the predictive value of irinotecan-based toxicity and efficacy.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28637434",
+          "offsetInBeginSection": 1879,
+          "offsetInEndSection": 2039
+        }
+      ],
+      "id": "65f775e8c4010b4d7800002d",
+      "type": "yesno",
+      "body": "Should UGT1A1 alteration be routinely determined in colorectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36410877",
+        "http://www.ncbi.nlm.nih.gov/pubmed/38090881",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36410882"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Basic Science of Autologous Orthobiologics: Part 1. Platelet-Rich Plasma.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36410877",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 73
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These cellular therapies are often referred to as orthobiologics and are derived from patient\u0027s own tissues, such as blood, bone marrow, and adipose tissue to prepare platelet-rich plasma (PRP), bone marrow concentrate, and adipose tissue concentrate, respectively. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36410877",
+          "offsetInBeginSection": 175,
+          "offsetInEndSection": 441
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The use of orthobiologics such as platelet-rich plasma, bone marrow aspirate, and stem cells has been proposed as a biologic augmentation for treatment of various conditions of cartilage, tendon, and bone.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38090881",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 205
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Orthobiologics continue to be studied for their ability to improve muscle healing. To date, the basic science research for treating muscle injuries with platelet-rich plasma or stem cell remains novel.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36410882",
+          "offsetInBeginSection": 66,
+          "offsetInEndSection": 267
+        }
+      ],
+      "id": "66088b42fdcbea915f000009",
+      "type": "list",
+      "body": "Please list sources of orthobiologics"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37450641",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37444658",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37382889"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "older patients with advance directives such as a living will, or durable power of attorney for healthcare, are more likely to receive care consistent with their preferences at the end of life",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37444658",
+          "offsetInBeginSection": 20,
+          "offsetInEndSection": 211
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Advance care directives are an important mechanism for documenting treatment preferences in patient care planning",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37382889",
+          "offsetInBeginSection": 875,
+          "offsetInEndSection": 988
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Advance directives documentation can increase the likelihood that patient\u0027s wishes are respected if they become incapacitated",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37450641",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 137
+        }
+      ],
+      "id": "65f84eadc4010b4d7800004c",
+      "type": "yesno",
+      "body": "Are advanced directives an expression of the patient\u0027s wishes for future care in case they become cognitively impaired or find themselves in critical condition?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37870968",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37921413"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: In this phase 3 trial of a KRAS G12C inhibitor plus an EGFR inhibitor in patients with chemorefractory metastatic colorectal cancer, both doses of sotorasib in combination with panitumumab resulted in longer progression-free survival than standard treatment. Toxic effects were as expected for either agent alone and resulted in few discontinuations of treatment. (Funded by Amgen; CodeBreaK 300 ClinicalTrials.gov number, NCT05198934.).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37870968",
+          "offsetInBeginSection": 2215,
+          "offsetInEndSection": 2665
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Findings from the phase III CodeBreaK 300 trial indicate that adding the EGFR inhibitor panitumumab to sotorasib bests standard care for chemorefractory KRASG12C colorectal cancer. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37921413",
+          "offsetInBeginSection": 135,
+          "offsetInEndSection": 316
+        }
+      ],
+      "id": "65cf69541930410b13000006",
+      "type": "list",
+      "body": "Which drugs were tested in the CodeBreaK 300 clinical trial?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/35371084"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Our team also proposes a new organ-preservation strategy for patients with MSI-H/dMMR low LARC",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35371084",
+          "offsetInBeginSection": 1713,
+          "offsetInEndSection": 1807
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "patients with high microsatellite instability/deficient mismatch repair (MSI-H/dMMR) LACRC receive little benefit from neoadjuvant chemoradiotherapy (nCRT) or neoadjuvant chemotherapy (nCT)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35371084",
+          "offsetInBeginSection": 168,
+          "offsetInEndSection": 357
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Patients with locally advanced colorectal cancer (LACRC) have a high risk of recurrence and metastasis, although neoadjuvant therapy may provide some benefit",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35371084",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 157
+        }
+      ],
+      "id": "65f779edc4010b4d78000039",
+      "type": "yesno",
+      "body": "Is surgical resection an appropriate treatment over immunotherapy in MSI-H locally advanced rectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36822494",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37665322",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35508111"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Folate (FA) is an essential cofactor in the one-carbon (1C) metabolic pathway and participates in amino acid metabolism,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36822494",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 132
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "One-carbon/folate (1C) metabolism supplies methyl groups required for DNA and histone methylation, and is involved in the maintenance of self-renewal in stem cells. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37665322",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 165
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The folic acid cycle mediates the transfer of one-carbon (1C) units to support nucleotide biosynthesis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35508111",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 104
+        }
+      ],
+      "id": "66081d61fdcbea915f000007",
+      "type": "yesno",
+      "body": "Is One-carbon (1C)  metabolism associated with folate?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33423644",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35943347",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33368142"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The administration of antenatal corticosteroids, in cases of imminent preterm delivery, can enhance fetal lung maturation and reduce the incidence of respiratory distress syndrome, leading to improved neonatal outcomes. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33423644",
+          "offsetInBeginSection": 168,
+          "offsetInEndSection": 388
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "single course of antenatal corticosteroids from 24 up to 34 gestational weeks",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33423644",
+          "offsetInBeginSection": 615,
+          "offsetInEndSection": 692
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "use of antenatal corticosteroids to prevent respiratory distress syndrome (RDS) in preterm infants",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35943347",
+          "offsetInBeginSection": 35,
+          "offsetInEndSection": 133
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "beneficial effect of antenatal corticosteroids on fetal lung maturation and widespread recommendations to use this treatment in women at risk of preterm delivery",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33368142",
+          "offsetInBeginSection": 225,
+          "offsetInEndSection": 386
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "course of corticosteroids to women prior to anticipated preterm birth (before 37 weeks of pregnancy)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33368142",
+          "offsetInBeginSection": 804,
+          "offsetInEndSection": 904
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "use of a single course of antenatal corticosteroids to accelerate fetal lung maturation in women at risk of preterm birth",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33368142",
+          "offsetInBeginSection": 5025,
+          "offsetInEndSection": 5146
+        }
+      ],
+      "id": "660bb7f9fdcbea915f000029",
+      "type": "factoid",
+      "body": "What type of drug is administered to the mother for the prevention of lung immaturity when a preterm delivery is anticipated?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37257422",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35849035",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37085569",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34050676",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33601293",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34204877"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "RESULTS: The UNITE study was stopped early after interim analysis of separate phase III trial showed no difference in survival from depatuxizumab mafodotin.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37257422",
+          "offsetInBeginSection": 1649,
+          "offsetInEndSection": 1805
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Interim analysis demonstrated no OS benefit for depatux-m in treating EGFR-amp newly diagnosed GBM. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35849035",
+          "offsetInBeginSection": 1627,
+          "offsetInEndSection": 1740
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "However, depatuxizumab mafodotin, an ADC targeting wild-type EGFR and EGFR variant III, did not provide a definitive overall survival benefit in patients with newly diagnosed or recurrent EGFR-amplified glioblastoma in phase II and III trials, despite objective radiological responses in some patients.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37085569",
+          "offsetInBeginSection": 735,
+          "offsetInEndSection": 1037
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Antibody drug conjugates (ADCs) targeting the epidermal growth factor receptor (EGFR), such as depatuxizumab mafodotin (Depatux-M), is a promising therapeutic strategy for glioblastoma (GBM) but recent clinical trials did not demonstrate a survival benefit. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34050676",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 270
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Despite profound intrinsic sensitivity to Depatux-M, limited drug delivery into brain tumor may have been a key contributor to lack of efficacy in recently failed clinical trials.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34050676",
+          "offsetInBeginSection": 1506,
+          "offsetInEndSection": 1698
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: Depatux-M had no impact on HRQoL and NDFS in patients with EGFR-amplified recurrent glioblastoma, except for more visual disorders, an expected side-effect of the study drug.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33601293",
+          "offsetInBeginSection": 1612,
+          "offsetInEndSection": 1799
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSIONS: The study reported the first \"real world\" experience of Depatux-M plus temozolomide in recurrent glioblastoma patients. Encouraging clinical benefits were demonstrated, even though most patients were treated beyond second-line therapy. Overall, the results are close to those reported in the previous phase 2 trial. Toxicity was moderate and manageable.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34204877",
+          "offsetInBeginSection": 1560,
+          "offsetInEndSection": 1926
+        }
+      ],
+      "id": "65d132101930410b13000035",
+      "type": "yesno",
+      "body": "Is Depatuxizumab mafodotin effective for glioblastoma?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18854571"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These results from a large, prospective, observational study suggest that continued vascular endothelial growth factor inhibition with bevacizumab beyond initial PD could play an important role improving the overall success of therapy for patients who have mCRC",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18854571",
+          "offsetInBeginSection": 1608,
+          "offsetInEndSection": 1869
+        }
+      ],
+      "id": "66099af7fdcbea915f000020",
+      "type": "yesno",
+      "body": "Is the use of Bevacizumab indicated after progression to a previous regimen with Bevacizumab in advanced colorectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37638529",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37348116",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35747039",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19004414"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": ". Recently, the use of dissociative psychedelic substances such as ketamine and esketamine for depressive disorders has expanded treatment options. W",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37638529",
+          "offsetInBeginSection": 169,
+          "offsetInEndSection": 318
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Therapeutic Protocols Using Ketamine and Esketamine for Depressive Disorders: A Systematic Review.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37638529",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 98
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Health Benefits and Positive Acute Effects of Psilocybin Consumption: A Quantitative Textual Analysis of User Self-Reported Data.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37348116",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 129
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "There has been growth in the use of psychedelics by the global population in recent years. In addition to recreational and ritualistic use, recent research into psychedelics has brought advances for treating mental disorders",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37348116",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 224
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Psychoactive drugs such as MDMA, ketamine, and psilocybin have been shown to specifically target and decrease fear and anxiety pathways in the brain. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35747039",
+          "offsetInBeginSection": 507,
+          "offsetInEndSection": 657
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "MDMA-assisted psychotherapy using low doses in a small sample of women with chronic posttraumatic stress disorder.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004414",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 114
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The purpose of this study was to investigate the safety of different doses of MDMA-assisted psychotherapy administered in a psychotherapeutic setting to women with chronic PTSD secondary to a sexual assault, a",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19004414",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 209
+        }
+      ],
+      "id": "65f48fa2c4010b4d7800000f",
+      "type": "list",
+      "body": "Please list the psychoactive drugs used to treat mental health disorders."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/25864107",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37286215",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37309028"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Smallpox",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25864107",
+          "offsetInBeginSection": 141,
+          "offsetInEndSection": 149
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "measles",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25864107",
+          "offsetInBeginSection": 231,
+          "offsetInEndSection": 238
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "poliomyelitis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25864107",
+          "offsetInBeginSection": 183,
+          "offsetInEndSection": 196
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "live attenuated MMR vaccine",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37286215",
+          "offsetInBeginSection": 2249,
+          "offsetInEndSection": 2276
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "live vaccines such as measles, mumps, rubella, and varicella (MMRV)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37309028",
+          "offsetInBeginSection": 21,
+          "offsetInEndSection": 88
+        }
+      ],
+      "id": "660d2299fdcbea915f000038",
+      "type": "list",
+      "body": "List of attenuated viral vaccines still in use."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37314244",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33722875"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "ONCLUSIONS: Among adults with major trauma and suspected trauma-induced coagulopathy who were being treated in advanced trauma systems, prehospital administration of tranexamic acid followed by an infusion over 8 hours did not result in a greater number of patients surviving with a favorable functional outcome at 6 months than placebo. (Funded by the Australian National Health and Medical Research Council and others; PATCH-Trauma ClinicalTrials.gov number, NCT02187120.).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37314244",
+          "offsetInBeginSection": 2067,
+          "offsetInEndSection": 2542
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Protocol for a multicentre prehospital randomised controlled trial investigating tranexamic acid in severe trauma: the PATCH-Trauma trial.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33722875",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 138
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "METHODS AND ANALYSIS: The Pre-hospital Anti-fibrinolytics for Traumatic Coagulopathy and Haemorrhage (The PATCH-Trauma study) is comparing TXA, initiated prehospital and continued in hospital over 8 hours, with placebo in patients with severe trauma at risk of acute traumatic coagulopathy. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33722875",
+          "offsetInBeginSection": 542,
+          "offsetInEndSection": 833
+        }
+      ],
+      "id": "65cfd9071930410b13000024",
+      "type": "summary",
+      "body": "What was tested in the PATCH-Trauma trial?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15913913"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "capecitabine was administered daily at a dose of 1650 mg/m(2) during the entire course of radiation therapy",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15913913",
+          "offsetInBeginSection": 587,
+          "offsetInEndSection": 694
+        }
+      ],
+      "id": "66099c01fdcbea915f000023",
+      "type": "factoid",
+      "body": "What is the most appropriate dose of capecitabine in concurrent treatment with radiotherapy for neoadjuvant therapy of locally advanced rectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/38090463",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25788945",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31752657"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Takotsubo cardiomyopathy (TC) is a recognized clinical syndrome characterized by reversible cardiomyopathy with a distinctive left ventricular apical ballooning appearance",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38090463",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 171
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Tako-Tsubo cardiomyopathy (TTC) is a reversible cardiomyopathy characterized by acute left ventricular segmental dysfunction, whose clinical presentation resembles that of acute myocardial infarction.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25788945",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 200
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Takotsubo Cardiomyopathy (TTC) is an uncommon cause of acute reversible ventricular systolic dysfunction in the absence of obstructive Coronary Artery Disease (CAD). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31752657",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 178
+        }
+      ],
+      "id": "6609827afdcbea915f000011",
+      "type": "yesno",
+      "body": "Is Tako-Tsubo syndrome is an irreversible form of an acute stress-related cardiomyopathy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33620411",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35674067"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "interferons, glatiramer acetate, teriflunomide, sphingosine 1-phosphate receptor modulators, fumarates, cladribine, and 3 types of monoclonal antibodies. One additional DMT, ocrelizumab",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33620411",
+          "offsetInBeginSection": 1687,
+          "offsetInEndSection": 1872
+        }
+      ],
+      "id": "660d7491fdcbea915f000041",
+      "type": "list",
+      "body": "New treatments in multiple sclerosis."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36936447",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37137832",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37602038",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37585628",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37759499"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Crigler-Najjar syndrome is a rare disorder of bilirubin metabolism caused by uridine diphosphate glucuronosyl transferase 1A1 (UGT1A1) mutations characterized by hyperbilirubinemia and jaundice. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36936447",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 195
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Conclusion: The compound heterozygous pathogenic mutations (c.-3279T \u003e G, c.211G \u003e A, and c.1456T \u003e G) at three loci of the UGT1A1 gene may be the feature of the newly discovered CNS-II family genes based on the CNS-II family study.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37137832",
+          "offsetInBeginSection": 597,
+          "offsetInEndSection": 829
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Crigler-Najjar syndrome (CNS) type I is a rare genetic disease caused by mutations in the UGT1A1 gene, resulting in a lack of Uridine 5\u0027-diphospho-glucuronosyltransferase (UDPGT) enzyme. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37602038",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 187
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Patients with the Crigler-Najjar syndrome lack the enzyme uridine diphosphoglucuronate glucuronosyltransferase 1A1 (UGT1A1), the absence of which leads to severe unconjugated hyperbilirubinemia that can cause irreversible neurologic injury and death. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37585628",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 263
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A defect in the UGT1A1 enzyme-encoding gene, which is directly responsible for bilirubin conjugation, can cause Crigler-Najjar syndrome (CNS) and Gilbert\u0027s syndrome. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37759499",
+          "offsetInBeginSection": 264,
+          "offsetInEndSection": 430
+        }
+      ],
+      "id": "65cfcc8f1930410b13000018",
+      "type": "yesno",
+      "body": "Is UGT1A1 implicated in Crigler–Najjar syndrome?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/35582139",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30348537"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Host genetic variants in the rate limiting enzyme dihydropyrimidine dehydrogenase (DPYD) gene are related to the occurrence of extremely severe, early onset toxicity in FP treated patients. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35582139",
+          "offsetInBeginSection": 569,
+          "offsetInEndSection": 759
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Prospective DPYD genotyping was feasible in routine clinical practice, and DPYD genotype-based dose reductions improved patient safety of fluoropyrimidine treatment.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30348537",
+          "offsetInBeginSection": 3168,
+          "offsetInEndSection": 3333
+        }
+      ],
+      "id": "65f77596c4010b4d7800002c",
+      "type": "yesno",
+      "body": "Should PDYD polymorphism determination be routinely performed in patients with colorectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37569281",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37640554",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35911839",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35550517",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36175792"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Sodium leak channel (NALCN) is widely expressed in the central nervous system and regulates neuronal excitability",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37569281",
+          "offsetInBeginSection": 213,
+          "offsetInEndSection": 326
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "We tested the role of the sodium leak channel, NALCN, in pacemaking of dopaminergic neuron (DAN) subpopulations from adult male and female mice. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37640554",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 145
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " The NALCN encodes a sodium ion leak channel that regulates nerve-resting conductance and excitability. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35911839",
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 115
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "NALCN channel mediates sodium leak currents and is important for maintaining proper resting membrane potential. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35550517",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 112
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "dium leak channel non-selective protein (NALCN) as a key regulator of cancer metastasis and nonmalignant cell dissemination.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36175792",
+          "offsetInBeginSection": 18,
+          "offsetInEndSection": 142
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "he NALCN channel regulates metastasis and nonmalignant cell dissemination",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36175792",
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 74
+        }
+      ],
+      "id": "660710b7fdcbea915f000002",
+      "type": "summary",
+      "body": "What is the function of the sodium leak channel (NALCN)?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36757703",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31027551"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Transgender and gender-diverse individuals face unique challenges, including barriers to health care access and inequities in treatment, that may influence cancer risk and outcomes",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36757703",
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 192
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "transgender and gender-diverse people had a high prevalence of tobacco consumption and alcohol use and high rates of infection with human papillomavirus (HPV) and HIV",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36757703",
+          "offsetInBeginSection": 631,
+          "offsetInEndSection": 797
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Transgender and gender-diverse individuals were less likely to adhere to cancer screening programs and had a higher incidence of HIV- and HPV-associated cancers",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36757703",
+          "offsetInBeginSection": 799,
+          "offsetInEndSection": 959
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Discrimination, discomfort caused by gender-labeled oncological services, stigma, and lack of cultural sensitivity of health care practitioners were other barriers met by transgender and gender-diverse persons in the oncology setting",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36757703",
+          "offsetInBeginSection": 1290,
+          "offsetInEndSection": 1523
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The findings suggest that transgender and gender-diverse peoples\u0027 needs in the cancer care continuum are not optimally addressed",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36757703",
+          "offsetInBeginSection": 1551,
+          "offsetInEndSection": 1679
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Because the risk on certain types of cancer differs between men and women, and some of these differences are attributed to exposure to sex hormones, the cancer risk may be altered in transgender people receiving HT",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31027551",
+          "offsetInBeginSection": 177,
+          "offsetInEndSection": 391
+        }
+      ],
+      "id": "660d70b3fdcbea915f00003f",
+      "type": "summary",
+      "body": "Cancer risk in transgender individuals."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/38039993"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "INTERPRETATION: In earlier studies, the addition of pembrolizumab to lenvatinib as first-line therapy for advanced hepatocellular carcinoma has shown promising clinical activity; however, lenvatinib plus pembrolizumab did not meet prespecified significance for improved overall survival and progression-free survival versus lenvatinib plus placebo. Our findings do not support a change in clinical practice.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38039993",
+          "offsetInBeginSection": 3603,
+          "offsetInEndSection": 4010
+        }
+      ],
+      "id": "65d372231930410b13000047",
+      "type": "yesno",
+      "body": "Does Lenvatinib plus pembrolizumab improve prognosis of advanced hepatocellular carcinoma?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20587792"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "cigarette smoking was associated with the MSI-high, CIMP-positive, and BRAF mutation-positive colorectal cancer subtypes,",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20587792",
+          "offsetInBeginSection": 2679,
+          "offsetInEndSection": 2800
+        }
+      ],
+      "id": "660998d1fdcbea915f000013",
+      "type": "list",
+      "body": "What molecular subtypes of colon cancer are associated to smoking?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37488884",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37549565",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37862201"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mitophagy, or selective autophagy of mitochondria, is an essential pathway to preserve mitochondrial homeostasis by clearing up damaged mitochondria. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37488884",
+          "offsetInBeginSection": 360,
+          "offsetInEndSection": 510
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mitophagy is an essential physiological process that eliminates damaged mitochondria via lysosomes. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37549565",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 100
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mitophagy selectively clears damaged or dysfunctional mitochondria through autophagic machinery to maintain mitochondrial quality control and homeostasis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37862201",
+          "offsetInBeginSection": 95,
+          "offsetInEndSection": 250
+        }
+      ],
+      "id": "660877c8fdcbea915f000008",
+      "type": "factoid",
+      "body": "What part of the cell is mitophagy associated with?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34154390",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36706354"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " Statins were shown to increase hemorrhagic stroke (HS) in patients with a first cerebrovascular event",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34154390",
+          "offsetInBeginSection": 23,
+          "offsetInEndSection": 125
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Statins increase the risk of HS",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34154390",
+          "offsetInBeginSection": 2046,
+          "offsetInEndSection": 2077
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "benefit of statin for stroke is debatable as regular statin users may suffer from myalgia, statin-associated myopathy (SAM), and rarely rhabdomyolysis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36706354",
+          "offsetInBeginSection": 26,
+          "offsetInEndSection": 176
+        }
+      ],
+      "id": "660d2a50fdcbea915f00003a",
+      "type": "summary",
+      "body": "What is the association between statins and stroke?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37530822"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Selective Inhibition of NaV1.8 with VX-548 for Acute Pain.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37530822",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 58
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The effect of VX-548, an oral, highly selective inhibitor of NaV1.8, on control of acute pain is being studied.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37530822",
+          "offsetInBeginSection": 148,
+          "offsetInEndSection": 259
+        }
+      ],
+      "id": "65cfd02e1930410b1300001c",
+      "type": "factoid",
+      "body": "What channel is targeted by VX-548?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32471028",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34880120"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "only limited evidence for the efficacy of duloxetine in the treatment setting has been provided.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32471028",
+          "offsetInBeginSection": 664,
+          "offsetInEndSection": 760
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Duloxetine, a serotonin and norepinephrine reuptake inhibitor, is the best-established treatment for painful chemotherapy-induced peripheral neuropathy (CIPN)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34880120",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 158
+        }
+      ],
+      "id": "66099926fdcbea915f000016",
+      "type": "factoid",
+      "body": "What is the most effective drug for oxaliplatin-induced neuropathy?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/34729291",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37218872"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": " MCT treatment of human skin is safe and well tolerated. Although further studies on efficacy are required to evaluate the full potential of MCT in skin rejuvenation, early findings such as skin tightening and increase in skin thickness are encouraging.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34729291",
+          "offsetInBeginSection": 935,
+          "offsetInEndSection": 1188
+        }
+      ],
+      "id": "65f37bb1c4010b4d7800000d",
+      "type": "factoid",
+      "body": "What is Microcoring used for"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37956828",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37944153",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35713579"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "endometriosis, with and without chronic pain, anxiety, and depression",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37956828",
+          "offsetInBeginSection": 1547,
+          "offsetInEndSection": 1616
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Endometriosis is a chronic condition, with debilitating symptoms affecting all ages. Dysmenorrhea and pelvic pain ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37944153",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 114
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "recurrent abdominal pain, cramping and anxiety",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35713579",
+          "offsetInBeginSection": 451,
+          "offsetInEndSection": 497
+        }
+      ],
+      "id": "660bbc09fdcbea915f00002a",
+      "type": "list",
+      "body": "What symptoms can be expected in women suffering from endometriosis?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/36736157",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36716407",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37023499",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37229642",
+        "http://www.ncbi.nlm.nih.gov/pubmed/36656533",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37102083"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Safety and efficacy of mirvetuximab soravtansine, a folate receptor alpha (FRα)-targeting antibody-drug conjugate (ADC), in combination with bevacizumab in patients with platinum-resistant ovarian cancer.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36736157",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 204
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mirvetuximab soravtansine (MIRV) is an antibody-drug conjugate targeting folate receptor α (FRα). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36716407",
+          "offsetInBeginSection": 155,
+          "offsetInEndSection": 253
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Consequently, ADCs are gaining traction in gynecologic cancers with the recent US Food and Drug Administration approvals of tisotumab vedotin in cervical cancer and mirvetuximab soravtansine in ovarian cancer. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37023499",
+          "offsetInBeginSection": 917,
+          "offsetInEndSection": 1127
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In ovarian cancer, mirvetuximab soravtansine, an ADC targeting alpha-folate receptor (FRα), received US Food and Drug Administration (FDA) accelerated approval in November 2022 after data from the single-arm phase III SORAYA trial. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37229642",
+          "offsetInBeginSection": 500,
+          "offsetInEndSection": 732
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mirvetuximab soravtansine (mirvetuximab soravtansine-gynx; Elahere™) is an antibody-drug conjugate (ADC), which is comprised of a folate receptor α (FRα) directed antibody conjugated to a microtubule inhibitor via a cleavable linker. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/36656533",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 234
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mirvetuximab soravtansine (MIRV) is a first-in-class antibody-drug conjugate (ADC) targeting folate receptor alpha (FRα) and is indicated for the treatment of adult patients with FRα-positive, platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal cancer who have received 1 to 3 prior systemic treatment regimens.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37102083",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 336
+        }
+      ],
+      "id": "65cf6c301930410b13000008",
+      "type": "summary",
+      "body": "What is the mechanism of action of Mirvetuximab Soravtansine?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/31930400"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Using current multi-institutional recurrence estimates, we observed comparable cancer-specific survival, superior quality-adjusted survival, and decreased costs with WW compared with upfront TME. Upfront TME was preferred when surgical salvage rates were low.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31930400",
+          "offsetInBeginSection": 1566,
+          "offsetInEndSection": 1825
+        }
+      ],
+      "id": "65f778dbc4010b4d78000035",
+      "type": "yesno",
+      "body": "Is watch-and-wait policy after neoadjuvant therapy a cost-effective policy for locally advanced rectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/35015342",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37747577",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32979174",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34237321"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Therapeutic opportunities for senolysis in cardiovascular disease.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35015342",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 66
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "These findings coupled with the emergence of senolytic therapies, to target and eliminate senescent cells, have provided fascinating new avenues for management of several age-related cardiovascular diseases with high prevalence. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35015342",
+          "offsetInBeginSection": 737,
+          "offsetInEndSection": 966
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Quercetin and dasatinib, two powerful senolytics in age-related cardiovascular disease.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37747577",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 87
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In recent years, the use and study of senolytics increased, representing a promising field for finding accessible and safe therapies for cardiovascular disease (CVD) treatment. T",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37747577",
+          "offsetInBeginSection": 303,
+          "offsetInEndSection": 481
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Therapeutic Potential of Senolytics in Cardiovascular Disease",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32979174",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 61
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Senescence and senolytics in cardiovascular disease: Promise and potential pitfalls.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34237321",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 84
+        }
+      ],
+      "id": "66088ddbfdcbea915f00000d",
+      "type": "yesno",
+      "body": "Are senolytics used to treat cardiovascular disease?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/32267390",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31504641"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The bacterium Rickettsia rickettsii is the agent of Brazilian spotted fever (BSF)",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31504641",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 81
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "R. rickettsii",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31504641",
+          "offsetInBeginSection": 810,
+          "offsetInEndSection": 823
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "R. rickettsii",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31504641",
+          "offsetInBeginSection": 647,
+          "offsetInEndSection": 660
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "A. sculptum ticks were infected by R. rickettsii in other BSF-endemic areas",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31504641",
+          "offsetInBeginSection": 1426,
+          "offsetInEndSection": 1501
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Rickettsia rickettsii is the causative agent of Brazilian spotted fever",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/32267390",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 71
+        }
+      ],
+      "id": "660c0486fdcbea915f00002d",
+      "type": "factoid",
+      "body": "What is the cause of Brazilian spotted fever?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37809109",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34407964",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33243181",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33088545"
+      ],
+      "snippets": [
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Nitrofurantoin-Induced Lung Injury: A Reminder of an Overlooked Threat.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37809109",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 71
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Although relatively rare, nitrofurantoin can cause a spectrum of lung injuries, from acute hypersensitivity reactions that might be fatal to chronic reactions involving fibrosis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37809109",
+          "offsetInBeginSection": 112,
+          "offsetInEndSection": 291
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "CONCLUSION: NF can cause marked or irreversible lung complications and there is currently a shortfall in awareness and monitoring. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/34407964",
+          "offsetInBeginSection": 1882,
+          "offsetInEndSection": 2013
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Reversible lung fibrosis in a 6-year-old girl after long term nitrofurantoin treatment.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33243181",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 87
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "BACKGROUND: Pulmonary side effects are well known, including lung fibrosis, in elderly patients treated with long-term nitrofurantoin to prevent urinary tract infections and secondary renal injury.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33243181",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 197
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "A rare case of nitrofurantoin-induced acute lung injury.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33088545",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 56
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Acute lung injury resulting from nitrofurantoin is a rare, life-threatening complication with women being at greater risk.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33088545",
+          "offsetInBeginSection": 67,
+          "offsetInEndSection": 189
+        }
+      ],
+      "id": "65cfcf201930410b1300001b",
+      "type": "yesno",
+      "body": "Can Nitrofurantoin cause Lung Injury?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/26338525",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33836264"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The current standard therapies for first-line treatment of BRAF-mutated mCRC are chemotherapy with bevacizumab as well as 5-fluorouracil, leucovorin, oxaliplatin, and irinotecan (FOLFOXIRI) plus bevacizumab in patients with a good performance status",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33836264",
+          "offsetInBeginSection": 883,
+          "offsetInEndSection": 1132
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "FOLFOXIRI plus bevacizumab is a feasible treatment option for those patients who meet the inclusion criteria of the present study, irrespective of baseline clinical characteristics and RAS or BRAF mutational status",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26338525",
+          "offsetInBeginSection": 2733,
+          "offsetInEndSection": 2947
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Median overall survival was 37·1 months (95% CI 29·7-42·7) in the RAS and BRAF wild-type subgroup compared with 25·6 months (22·4-28·6) in the RAS-mutation-positive subgroup (HR 1·49, 95% CI 1·11-1·99) and 13·4 months (8·2-24·1) in the BRAF-mutation-positive subgroup (HR 2·79, 95% CI 1·75-4·46; likelihood-ratio test p\u003c0·0001). ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/26338525",
+          "offsetInBeginSection": 2292,
+          "offsetInEndSection": 2621
+        }
+      ],
+      "id": "66099a25fdcbea915f00001e",
+      "type": "factoid",
+      "body": "What is the first-line treatment for BRAF mutated advanced colorectal cancer patients?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/28912185"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Restrictive cardiomyopathy (RCM) is characterized by nondilated left or right ventricle with diastolic dysfunction. The restrictive cardiomyopathies are a heterogenous group of myocardial diseases that vary according to pathogenesis, clinical presentation, diagnostic evaluation and criteria, treatment, and prognosis. In this review, an overview of RCMs will be presented followed by a detailed discussion on 3 major causes of RCM, for which tailored interventions are available: cardiac amyloidosis, cardiac sarcoidosis, and cardiac hemochromatosis. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/28912185",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 552
+        }
+      ],
+      "id": "65f1d9f8c4010b4d78000006",
+      "type": "list",
+      "body": "List the causes of Restrictive cardiomyopathy (RCM)"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33429180"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "trends in mortality due to acute epiglottitis before and after adoption of Haemophilus influenza Type b vaccination (Hib) in pediatric and adult populations",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33429180",
+          "offsetInBeginSection": 18,
+          "offsetInEndSection": 174
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Mortality from acute epiglottitis decreased after widespread adoption of Hib vaccination in the US",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33429180",
+          "offsetInBeginSection": 1323,
+          "offsetInEndSection": 1421
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Adults are now more likely than children to die of acute epiglottitis",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33429180",
+          "offsetInBeginSection": 1423,
+          "offsetInEndSection": 1492
+        }
+      ],
+      "id": "660d17dffdcbea915f000037",
+      "type": "summary",
+      "body": "Trends of acute epiglottitis in children."
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/33068037",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33430645",
+        "http://www.ncbi.nlm.nih.gov/pubmed/38020600",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37691319",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37155124",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37219716"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "INTERPRETATION: In the MOXIe trial, omaveloxolone significantly improved neurological function compared to placebo and was generally safe and well tolerated. It represents a potential therapeutic agent in FA. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33068037",
+          "offsetInBeginSection": 1587,
+          "offsetInEndSection": 1796
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "Omaveloxolone: potential new agent for Friedreich ataxia.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33430645",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 57
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "In this work, we review the evidence for use of omaveloxolone in FRDA from recent clinical trials. Though not at present approved for any indication, the present data suggest that this agent acting though increases in Nrf2 activity may provide a novel therapy for FRDA.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33430645",
+          "offsetInBeginSection": 517,
+          "offsetInEndSection": 786
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Omaveloxolone has been recently approved as the first pharmacological treatment for FRDA in adults and adolescents aged 16 years and older. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/38020600",
+          "offsetInBeginSection": 366,
+          "offsetInEndSection": 506
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "INTERPRETATION: These results suggest a meaningful slowing of Friedreich ataxia progression with omaveloxolone, and consequently detail how propensity-matched analysis may contribute to understanding of effects of therapeutic agents. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37691319",
+          "offsetInBeginSection": 1450,
+          "offsetInEndSection": 1684
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Omaveloxolone (SKYCLARYS™) is an orally active, small molecule semi-synthetic triterpenoid drug that increases antioxidant activity, which is being developed by Reata Pharmaceuticals, Inc. for the treatment of Friedreich\u0027s ataxia.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37155124",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 230
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Omaveloxolone was approved in February 2023 in the USA for the treatment of Friedreich\u0027s ataxia. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37155124",
+          "offsetInBeginSection": 588,
+          "offsetInEndSection": 685
+        },
+        {
+          "beginSection": "title",
+          "endSection": "title",
+          "text": "A Milestone in the Treatment of Ataxias: Approval of Omaveloxolone for Friedreich Ataxia.",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37219716",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 89
+        },
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "The exciting news about the US FDA approval of omaveloxolone as the first-ever drug to be approved for an inherited ataxia is welcome news for patients and families that deal with this devastating disease as well as for health care providers and investigators with an interest in this and other rare diseases. ",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37219716",
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 310
+        }
+      ],
+      "id": "65d12c451930410b13000032",
+      "type": "yesno",
+      "body": "Is Omaveloxolone effective for Friedreich Ataxia?"
+    },
+    {
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22933731"
+      ],
+      "snippets": [
+        {
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "text": "Following colorectal cancer, carriers of MMR gene mutations had the following 10-year risk of cancers in other organs: kidney, renal pelvis, ureter, and bladder (2%, 95% confidence interval [CI] \u003d 1% to 3%); small intestine, stomach, and hepatobiliary tract (1%, 95% CI \u003d 0.2% to 2%); prostate (3%, 95% CI \u003d 1% to 5%); endometrium (12%, 95% CI \u003d 8% to 17%); breast (2%, 95% CI \u003d 1% to 4%); and ovary (1%, 95% CI \u003d 0% to 2%). They were at elevated risk compared with the general population: cancers of the kidney, renal pelvis, and ureter (SIR \u003d 12.54, 95% CI \u003d 7.97 to 17.94), urinary bladder (SIR \u003d 7.22, 95% CI \u003d 4.08 to 10.99), small intestine (SIR \u003d 72.68, 95% CI \u003d 39.95 to 111.29), stomach (SIR \u003d 5.65, 95% CI \u003d 2.32 to 9.69), and hepatobiliary tract (SIR \u003d 5.94, 95% CI \u003d 1.81 to 10.94) for both sexes; cancer of the prostate (SIR \u003d 2.05, 95% CI \u003d 1.23 to 3.01), endometrium (SIR \u003d 40.23, 95% CI \u003d 27.91 to 56.06), breast (SIR \u003d 1.76, 95% CI \u003d 1.07 to 2.59), and ovary (SIR \u003d 4.19, 95% CI \u003d 1.28 to 7.97).",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22933731",
+          "offsetInBeginSection": 789,
+          "offsetInEndSection": 1801
+        }
+      ],
+      "id": "6609997ffdcbea915f000019",
+      "type": "list",
+      "body": "What non-colonic tumors are associated with Lynch syndrome?"
+    }
+  ]
+}
