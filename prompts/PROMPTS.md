@@ -26,6 +26,39 @@ Your answer:
 
 ## Yes/no — SEC reduce prompt used in the reported source
 
+The following prompt is reproduced verbatim from the implementation used to
+generate the reported experimental results.
+```text
+以下是对同一问题的多个分段回答：{map_answers}
+
+问题：{question}
+
+请严格按以下规则给出最终回答：
+1. 仅允许输出小写单词 'yes' 或 'no'
+2. 禁止添加任何解释、标点或格式修饰
+3. 如果所有答案一致，则直接采纳该答案
+4. 如果答案存在分歧，请优先选择与问题语义最契合、最合理的答案，而不是简单多数投票
+5. 如果只有一个回答，也需基于其合理性判断是否作为最终答案
+6. 如果没有任何回答（map_answers 为空），则根据常识和问题本身推理出最可能的答案
+
+你的最终回答：
+```
+
+Revision of the fallback rule
+
+The original experimental prompt above contained Rule 6, which specified a
+general-knowledge fallback for the case in which map_answers was empty.
+
+This condition was never triggered in the reported BioASQ 12b experiments,
+because the AMBI map-stage prompt requires every non-empty micro-batch to
+produce a binary prediction even under uncertainty. Therefore, this fallback
+did not affect any of the reported experimental results.
+
+To make the implementation fully consistent with the evidence-grounded
+formulation of the task, Rule 6 has been removed from the current implementation.
+No general-knowledge or question-only fallback is used in the revised SEC
+procedure.
+## Yes/no — SEC reduce prompt in the current implementation
 ```text
 以下是对同一问题的多个分段回答：{map_answers}
 
