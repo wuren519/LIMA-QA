@@ -32,7 +32,6 @@ LIMA-QA/
 │   └── limaqa_main_pipeline.ipynb
 ├── src/
 │   ├── rerank_with_medcpt.py
-│   ├── simpleagg.py
 │   └── fix_factoid_exact_answer.py
 ├── prompts/
 │   └── PROMPTS.md
@@ -220,21 +219,6 @@ Each micro-batch produces a binary prediction and a short rationale. SEC then pe
 Each micro-batch returns candidate entities in JSON format. During SEC reduction, the model is restricted to candidates appearing in the batch-level outputs and is not permitted to generate new candidate entities. Deterministic post-processing then parses, normalizes, deduplicates, and formats the final answer.
 
 No general-knowledge or question-only fallback is used in the current SEC implementation.
-
-## SimpleAgg Ablation Baseline
-
-`src/simpleagg.py` provides the deterministic **SimpleAgg** baseline used in the controlled ablation study. SimpleAgg is an ablation baseline and is not part of the complete LIMA-QA framework.
-
-For yes/no questions, SimpleAgg:
-
-- extracts valid `yes` or `no` labels from the batch-level predictions;
-- applies majority voting;
-- uses the earliest valid prediction to break a tie; and
-- returns `no` if no valid binary label can be extracted.
-
-For factoid and list questions, SimpleAgg concatenates batch-level candidate entities in their original order and performs exact-string deduplication while preserving the first occurrence. It retains at most 5 factoid candidates or 100 list candidates.
-
-SimpleAgg does not invoke an additional LLM reduction call.
 
 ## Factoid Output Utility
 
