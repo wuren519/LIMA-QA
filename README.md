@@ -259,4 +259,3 @@ Users should follow the BioASQ benchmark's applicable distribution and usage con
 - No general-knowledge fallback in SEC
 - Prompt templates: `prompts/PROMPTS.md`
 - Few-shot messages: `data/fewshot/`
-- SimpleAgg baseline: `src/simpleagg.py`
